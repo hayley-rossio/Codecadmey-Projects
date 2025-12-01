@@ -1,2 +1,1 @@
-# shiny-parakeet
-Practice projects through codecademy. 
+# Codecadmey Projects
